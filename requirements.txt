@@ -1,0 +1,7 @@
+# streamlit == 1.20
+# psycopg == 2.9.6
+    # database driver
+# mypy == 1.4.1
+# openai == 0.27.8
+# pydantic == 1.10.9
+# pytest == 3.4.0
